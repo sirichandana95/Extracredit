@@ -1,0 +1,1 @@
+web: gunicorn mfs_rest.wsgi --log-file –
